@@ -1209,7 +1209,12 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgba(185, 28, 28, var(--tw-bg-opacity));
 }
-
+.bg-main{
+  background-color: #dfa315;
+}
+.text-main{
+  color: #dfa315;
+}
 .bg-blueGray-50 {
   --tw-bg-opacity: 1;
   background-color: rgba(248, 250, 252, var(--tw-bg-opacity));
@@ -1805,7 +1810,12 @@ select {
 .ml-auto {
   margin-left: auto;
 }
-
+.mr-4r{
+  margin-right: 4rem;
+}
+.ml-4r{
+  margin-left: 4rem;
+}
 .-ml-4 {
   margin-left: -1rem;
 }
