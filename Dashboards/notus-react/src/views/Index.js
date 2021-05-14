@@ -9,7 +9,7 @@ export default function Index() {
   return (
     <>
       <IndexNavbar fixed />
-      <section className="header relative pt-16 items-center flex h-screen max-h-860-px bg-black ">
+      <section className="header relative pt-16 items-center flex h-screen max-h-860-px bg-customBlack ">
         <div className="container mx-auto items-center flex flex-wrap justify-center align-center">
           <div className="w-1/2 mx-4 px-4 align-center">
             <div className="pt-32 sm:pt-0 text-center">
@@ -34,7 +34,7 @@ export default function Index() {
 
       </section>
 
-      <section className="header relative pt-16 items-center flex h-screen max-h-860-px justify-center bg-black">
+      <section className="header relative pt-16 items-center flex h-screen max-h-860-px justify-center bg-customBlack">
 
 
         <img

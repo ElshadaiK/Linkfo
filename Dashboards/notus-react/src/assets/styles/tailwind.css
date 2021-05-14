@@ -3048,3 +3048,28 @@ select {
 
 @media (min-width: 1536px) {
 }
+
+
+.bg-customBlack {
+  background-color: #151719;
+}
+
+.text-customWhite {
+  color: #9CA9B3;
+}
+
+.gold {
+  color: #DFA315;
+}
+
+.gold2 {
+  color: #645f54;
+}
+
+.bg-indigo {
+  background-color: #1E1E2E;
+}
+
+.bg-gold {
+  background-color: #DFA315;
+}
