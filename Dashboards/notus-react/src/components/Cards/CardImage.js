@@ -11,7 +11,7 @@ export default function CardProfile() {
           <img
                   alt="..."
                   src={require("assets/img/preview.png").default}
-                  className="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16 max-w-150-px"
+                  className="shadow-xl h-auto align-middle border-none absolute mt-20 -m-16 -ml-20 lg:-ml-16 max-w-150-px"
                 />
           </div>
         </div>
