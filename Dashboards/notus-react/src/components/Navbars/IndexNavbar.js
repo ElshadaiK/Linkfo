@@ -38,7 +38,7 @@ export default function Navbar(props) {
           >
             <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
               <li className="flex items-center">
-                <IndexDropdown />
+                {/* <IndexDropdown /> */}
               </li>
               <li className="flex items-center">
                 <button
